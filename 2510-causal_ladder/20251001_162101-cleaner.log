@@ -1,0 +1,110 @@
+INFO:root:Collecting file structure.
+INFO:root:Reading all tex files
+INFO:root:Removing comments in file iclr2026_conference.tex.
+INFO:root:Removing comments in file math_commands.tex.
+INFO:root:Removing comments in file packages.tex.
+INFO:root:Removing comments in file macros.tex.
+INFO:root:Removing comments in file figures/code_cf_vs_interv.tex.
+INFO:root:Removing comments in file figures/cf_framework.tex.
+INFO:root:Removing comments in file figures/code_cf-o4mini_analysis-7b.tex.
+INFO:root:Removing comments in file figures/meta_template.tex.
+INFO:root:Removing comments in file figures/mae_mse.tex.
+INFO:root:Removing comments in file figures/gsm_cf-inst_sft_rl.tex.
+INFO:root:Removing comments in file sections/conclusion.tex.
+INFO:root:Removing comments in file sections/background_and_rl.tex.
+INFO:root:Removing comments in file sections/analysis.tex.
+INFO:root:Removing comments in file sections/appendix.tex.
+INFO:root:Removing comments in file sections/related.tex.
+INFO:root:Removing comments in file sections/intro.tex.
+INFO:root:Removing comments in file sections/experiments.tex.
+INFO:root:Removing comments in file sections/method.tex.
+INFO:root:Removing comments in file tables/code_cf-all_results.tex.
+INFO:root:Removing comments in file tables/definitions.tex.
+INFO:root:Removing comments in file tables/gsm_results.tex.
+INFO:root:Removing comments in file tables/code_cf-error_types.tex.
+INFO:root:Replacing \includesvg calls in file iclr2026_conference.tex.
+INFO:root:Replacing \includesvg calls in file math_commands.tex.
+INFO:root:Replacing \includesvg calls in file packages.tex.
+INFO:root:Replacing \includesvg calls in file macros.tex.
+INFO:root:Replacing \includesvg calls in file figures/code_cf_vs_interv.tex.
+INFO:root:Replacing \includesvg calls in file figures/cf_framework.tex.
+INFO:root:Replacing \includesvg calls in file figures/code_cf-o4mini_analysis-7b.tex.
+INFO:root:Replacing \includesvg calls in file figures/meta_template.tex.
+INFO:root:Replacing \includesvg calls in file figures/mae_mse.tex.
+INFO:root:Replacing \includesvg calls in file figures/gsm_cf-inst_sft_rl.tex.
+INFO:root:Replacing \includesvg calls in file sections/conclusion.tex.
+INFO:root:Replacing \includesvg calls in file sections/background_and_rl.tex.
+INFO:root:Replacing \includesvg calls in file sections/analysis.tex.
+INFO:root:Replacing \includesvg calls in file sections/appendix.tex.
+INFO:root:Replacing \includesvg calls in file sections/related.tex.
+INFO:root:Replacing \includesvg calls in file sections/intro.tex.
+INFO:root:Replacing \includesvg calls in file sections/experiments.tex.
+INFO:root:Replacing \includesvg calls in file sections/method.tex.
+INFO:root:Replacing \includesvg calls in file tables/code_cf-all_results.tex.
+INFO:root:Replacing \includesvg calls in file tables/definitions.tex.
+INFO:root:Replacing \includesvg calls in file tables/gsm_results.tex.
+INFO:root:Replacing \includesvg calls in file tables/code_cf-error_types.tex.
+INFO:root:Replacing Tikz Pictures in file iclr2026_conference.tex.
+INFO:root:Replacing Tikz Pictures in file math_commands.tex.
+INFO:root:Replacing Tikz Pictures in file packages.tex.
+INFO:root:Replacing Tikz Pictures in file macros.tex.
+INFO:root:Replacing Tikz Pictures in file figures/code_cf_vs_interv.tex.
+INFO:root:Replacing Tikz Pictures in file figures/cf_framework.tex.
+INFO:root:Replacing Tikz Pictures in file figures/code_cf-o4mini_analysis-7b.tex.
+INFO:root:Replacing Tikz Pictures in file figures/meta_template.tex.
+INFO:root:Replacing Tikz Pictures in file figures/mae_mse.tex.
+INFO:root:Replacing Tikz Pictures in file figures/gsm_cf-inst_sft_rl.tex.
+INFO:root:Replacing Tikz Pictures in file sections/conclusion.tex.
+INFO:root:Replacing Tikz Pictures in file sections/background_and_rl.tex.
+INFO:root:Replacing Tikz Pictures in file sections/analysis.tex.
+INFO:root:Replacing Tikz Pictures in file sections/appendix.tex.
+INFO:root:Replacing Tikz Pictures in file sections/related.tex.
+INFO:root:Replacing Tikz Pictures in file sections/intro.tex.
+INFO:root:Replacing Tikz Pictures in file sections/experiments.tex.
+INFO:root:Replacing Tikz Pictures in file sections/method.tex.
+INFO:root:Replacing Tikz Pictures in file tables/code_cf-all_results.tex.
+INFO:root:Replacing Tikz Pictures in file tables/definitions.tex.
+INFO:root:Replacing Tikz Pictures in file tables/gsm_results.tex.
+INFO:root:Replacing Tikz Pictures in file tables/code_cf-error_types.tex.
+INFO:root:Replacing patterns in file math_commands.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/math_commands.tex.
+INFO:root:Replacing patterns in file tables/code_cf-error_types.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/tables/code_cf-error_types.tex.
+INFO:root:Replacing patterns in file iclr2026_conference.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/iclr2026_conference.tex.
+INFO:root:Replacing patterns in file tables/definitions.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/tables/definitions.tex.
+INFO:root:Replacing patterns in file packages.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/packages.tex.
+INFO:root:Replacing patterns in file sections/method.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/method.tex.
+INFO:root:Replacing patterns in file macros.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/macros.tex.
+INFO:root:Replacing patterns in file figures/cf_framework.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/figures/cf_framework.tex.
+INFO:root:Replacing patterns in file figures/code_cf_vs_interv.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/figures/code_cf_vs_interv.tex.
+INFO:root:Replacing patterns in file sections/intro.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/intro.tex.
+INFO:root:Replacing patterns in file sections/conclusion.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/conclusion.tex.
+INFO:root:Replacing patterns in file sections/analysis.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/analysis.tex.
+INFO:root:Replacing patterns in file sections/experiments.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/experiments.tex.
+INFO:root:Replacing patterns in file figures/gsm_cf-inst_sft_rl.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/figures/gsm_cf-inst_sft_rl.tex.
+INFO:root:Replacing patterns in file sections/appendix.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/appendix.tex.
+INFO:root:Replacing patterns in file figures/code_cf-o4mini_analysis-7b.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/figures/code_cf-o4mini_analysis-7b.tex.
+INFO:root:Replacing patterns in file tables/code_cf-all_results.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/tables/code_cf-all_results.tex.
+INFO:root:Replacing patterns in file sections/background_and_rl.tex.
+INFO:root:Writing modified contents to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv/sections/background_and_rl.tex.
+INFO:root:Copying non-tex file iclr2026_conference.bib.
+INFO:root:Copying non-tex file natbib.sty.
+INFO:root:Copying non-tex file iclr2026_conference.bst.
+INFO:root:Copying non-tex file fancyhdr.sty.
+INFO:root:Copying non-tex file iclr2026_conference.sty.
+INFO:root:Outputs written to /projects/illinois/eng/cs/haopeng/qirundai/latex-source/Counterfactual_Reasoning_ICLR_2026_FINAL_arXiv

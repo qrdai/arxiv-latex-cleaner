@@ -1,0 +1,11 @@
+keep_bib: True
+verbose: True
+commands_to_delete: [
+    'qirun',
+    'hao',
+    'chenhao',
+    'aniket',
+]
+environments_to_delete: [
+    'qirunblock',
+]

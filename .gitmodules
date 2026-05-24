@@ -1,0 +1,3 @@
+[submodule "2605-unico/neurips26-universal-causal-reasoners"]
+	path = 2605-unico/neurips26-universal-causal-reasoners
+	url = https://github.com/qrdai/neurips26-universal-causal-reasoners.git

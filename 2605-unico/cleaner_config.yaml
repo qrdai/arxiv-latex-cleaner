@@ -1,1 +1,16 @@
-
+keep_bib: True
+verbose: True
+commands_to_delete: [
+    'qirun',
+    'dylan',
+    'xiao',
+    'chenhao',
+    'hao',
+    'jiawei',
+]
+commands_only_to_delete: [
+    'high',
+]
+environments_to_delete: [
+    'qirunblock',
+]

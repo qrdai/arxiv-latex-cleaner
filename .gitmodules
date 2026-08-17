@@ -1,3 +1,6 @@
 [submodule "2605-unico/neurips26-universal-causal-reasoners"]
 	path = 2605-unico/neurips26-universal-causal-reasoners
 	url = https://github.com/qrdai/neurips26-universal-causal-reasoners.git
+[submodule "2501-bids/emnlp25-bids"]
+	path = 2501-bids/emnlp25-bids
+	url = https://github.com/qrdai/emnlp25-bids.git

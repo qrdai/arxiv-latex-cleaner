@@ -11,3 +11,6 @@ build/
 dist/
 
 *.DS_Store
+
+# Paper-specific machine paths and private remote endpoints
+2501-bids/cleaner.local.conf

@@ -1,0 +1,14 @@
+keep_bib: True
+verbose: True
+commands_to_delete: [
+    'hao',
+    'qirun',
+    'jiaqi',
+    'dylan',
+    'question',
+    'dylancomment',
+]
+commands_only_to_delete: [
+    'high',
+    'rev',
+]
